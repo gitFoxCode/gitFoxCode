@@ -1,5 +1,5 @@
 <a href="https://github.com/gitFoxCode"> 
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=gitFoxCode&show_icons=true&theme=ayu-mirage">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=gitFoxCode&show_icons=true&theme=ayu-mirage&count_private=true">
   <img  height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitFoxCode&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </a>
 
