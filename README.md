@@ -14,6 +14,7 @@
   <img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="Nuxt icon" width="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="NodeJS icon" width="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg" alt="NestJS icon" width="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind icon" width="25"/>
 </section>
 <!--
 **gitFoxCode/gitFoxCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
